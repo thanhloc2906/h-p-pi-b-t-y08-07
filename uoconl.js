@@ -21,6 +21,6 @@ window.addEventListener('click', function(event) {
 
 var chuyentrang = document.getElementById('chuyentrang');
 chuyentrang.addEventListener('click', function() {
-    document.location.href = 'randomdethivan.html';
+    document.location.href = 'quacuoi.html';
 });
 
