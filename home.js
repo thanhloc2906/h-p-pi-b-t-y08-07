@@ -19,6 +19,7 @@ var grassRain = document.getElementById('grassRain');
 // Mảng chứa các đường dẫn đến hình ảnh hoa
 var flowerImages = [
     './tainguyen/clover.png',
+    './tainguyen/clover2.png',
     './tainguyen/clover3.png',
 ];
 
