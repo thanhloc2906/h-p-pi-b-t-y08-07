@@ -22,6 +22,13 @@ img {
     height: auto;
     margin-bottom: 60px; /* Khoảng cách dưới ảnh */
 }
+.anhg {
+    max-width: 100%;
+    width: 500px; /* chỉnh lại nếu muốn nhỏ hơn */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* căn giữa ảnh */
+}
 
 input[type="text"], button {
     margin: 10px 0; /* Khoảng cách giữa các phần tử */
