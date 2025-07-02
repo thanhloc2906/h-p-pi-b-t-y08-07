@@ -24,7 +24,7 @@ img {
 }
 .anhg {
     max-width: 100%;
-    width: 500px; /* chỉnh lại nếu muốn nhỏ hơn */
+    width: 400px; /* chỉnh lại nếu muốn nhỏ hơn */
     height: auto;
     display: block;
     margin: 0 auto; /* căn giữa ảnh */
