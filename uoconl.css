@@ -18,9 +18,9 @@ body {
 }
 
 img {
-    max-width: 80%; /* Ảnh có kích thước tối đa là 100% chiều rộng của .container */
+    max-width: 50%; /* Ảnh có kích thước tối đa là 100% chiều rộng của .container */
     height: auto;
-    margin-bottom: 20px; /* Khoảng cách dưới ảnh */
+    margin-bottom: 60px; /* Khoảng cách dưới ảnh */
 }
 
 input[type="text"], button {
